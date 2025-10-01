@@ -118,49 +118,86 @@
 
 # 주요 기능
 
-## 자녀 화면
 
-| ![자녀 메인](exec/readMePng/Screenshot_20250926_104006.jpg) | ![알림](exec/readMePng/KakaoTalk_20250926_122818008.jpg) |
-| ----------------------------------------------------------- | -------------------------------------------------------- |
-| **메인** <br> 계좌·용돈 등 요약 정보 제공                   | **알림** <br> 부모 등록 미션 실시간 수신                 |
+## **주요 기능**
 
-| ![프로필](exec/readMePng/Screenshot_20250926_103945.jpg) | ![키우기](exec/readMePng/Screenshot_20250926_103644.jpg) |
-| -------------------------------------------------------- | -------------------------------------------------------- |
-| **프로필** <br> 이름·이메일·생일 확인                    | **키덕이 키우기** <br> 경험치 기반 아바타 성장           |
+## **초기 화면(Web)**
 
-| ![모으기 통장](exec/readMePng/Screenshot_20250926_103918.jpg) | ![모으기 완료](exec/readMePng/KakaoTalk_20250926_122922422.jpg) |
-| ------------------------------------------------------------- | --------------------------------------------------------------- |
-| **모으기 통장** <br> 목표 저축 생성 및 관리                   | **완료된 통장** <br> 성취감 제공                                |
+|<img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(3).png?raw=true"/> |
+| --- |
+| **초기 화면** <br> 웹에서 키득키득 어플리케이션 다운로드가 가능합니다. |
 
-| ![진행중 미션](exec/readMePng/Screenshot_20250926_103939.jpg) | ![완료 미션](exec/readMePng/Screenshot_20250926_103942.jpg) |
-| ------------------------------------------------------------- | ----------------------------------------------------------- |
-| **진행중 미션** <br> 현재 수행중인 미션 확인                  | **완료 미션** <br> 보상 확인                                |
+## **초기 화면(Mobile)**
 
-| ![QR 결제](exec/readMePng/Screenshot_20250926_103952.jpg) | ![BLE 태깅](exec/readMePng/Screenshot_20250926_103955.jpg) |
-| --------------------------------------------------------- | ---------------------------------------------------------- |
-| **키득 페이** <br> QR 기반 결제 기능                      | **키득 태깅** <br> BLE 근거리 송금                         |
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(14).jpg" width="300"/> |
+| --- |
+| **초기 화면** <br> 구글 계정을 통하여 소셜 로그인을 지원합니다. |
 
----
 
-## 부모 화면
+## **자녀화면**
 
-| ![부모 메인](exec/readMePng/KakaoTalk_20250926_121225412_12.jpg) | ![프로필](exec/readMePng/KakaoTalk_20250926_121225412_13.jpg) |
-| ---------------------------------------------------------------- | ------------------------------------------------------------- |
-| **메인** <br> 자녀 계좌 및 잔고 조회                             | **프로필** <br> 부모 정보 확인                                |
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(25).jpg" width="300"/> |
+| --- |
+| **메인** <br> 계좌, 용돈 등의 정보를 한 눈에 볼 수 있습니다. |
 
-| ![알림](exec/readMePng/KakaoTalk_20250926_121225412_11.jpg) | ![진행중 미션](exec/readMePng/KakaoTalk_20250926_121225412.jpg) |
-| ----------------------------------------------------------- | --------------------------------------------------------------- |
-| **알림** <br> 자녀 활동 알림 수신                           | **진행중 미션** <br> 자녀 미션 확인                             |
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(12).jpg" width="300"/> |
+| --- |
+| **알림** <br> 부모가 등록한 미션을 실시간 알림으로 받을 수 있습니다. |
 
-| ![자동이체 등록](exec/readMePng/KakaoTalk_20250926_121225412_01.jpg) | ![자동이체 목록](exec/readMePng/KakaoTalk_20250926_121225412_06.jpg) |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **자동이체 등록** <br> 금액·주기 선택 가능                           | **자동이체 목록** <br> 등록 내역 조회                                |
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(22).jpg" width="300"/> |
+| --- |
+| **프로필** <br> 이름, 이메일, 나이, 생일 정보를 찾아볼 수 있습니다. |
 
-| ![소비 목록](exec/readMePng/KakaoTalk_20250926_121225412_10.jpg) | ![소비 패턴](exec/readMePng/KakaoTalk_20250926_121225412_07.jpg) |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **자녀 소비 목록** <br> 지출 내역 카드 UI                        | **소비 패턴 분석** <br> AI 기반 시각화                           |
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(16).jpg" width="300"/> |
+| --- |
+| **키우기** <br> 키덕이 키우기를 통해 경험치를 확인할 수 있습니다. |
 
-## 📁 문서
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(18).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(13).jpg" width="300"/> |
+| --- | --- |
+| **모으기 상자** <br> 모으기 상자 생성 및 진행중인 모으기 통장을 확인할 수 있습니다. | **모으기 통장 완료** <br> 완료된 모으기 통장을 확인할 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(20).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(21).jpg" width="300"/> |
+| --- | --- |
+| **진행 중 미션** <br> 진행중인 모으기 미션을 확인할 수 있습니다. | **완료 미션** <br> 완료된 미션을 확인할 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(23).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(24).jpg" width="300"/>|
+| --- | --- |
+| **키득 페이** <br> QR을 통해 결제가 가능합니다. | **키득 태깅** <br> 부모와 태깅을 통해서 용돈을 받을 수 있습니다. |
+
+
+## **부모 화면**
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(10).jpg" width="300"/> |
+| --- |
+| **메인** <br> 자녀 계좌, 내 계좌 잔고 등의 정보를 한 눈에 볼 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(11).jpg" width="300"/> |
+| --- |
+| **프로필** <br> 이름, 이메일, 나이, 생일 정보를 찾아볼 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(9).jpg" width="300"/> |
+| --- |
+| **알림** <br> 자녀의 알림을 실시간으로 받아 볼 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(1).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(3).jpg" width="300"/> |
+| --- | --- |
+| **진행 중 미션** <br> 진행중인 미션을 확인할 수 있습니다. | **완료된 미션** <br> 자녀의 완료된 미션을 확인할 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(2).jpg" width="300"/>| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(4).jpg" width="300"/> |
+| --- | --- |
+| **자동이체 등록** <br> 원하는 날짜와 시간, 금액을 선택할 수 있습니다. | **자동이체 목록** <br> 자녀에게 이체되는 자동이체를 확인할 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(8).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(6).jpg" width="300"/> |
+| --- | --- |
+| **자녀 소비 목록** <br> 자녀의 소비 내역을 확인할 수 있습니다. | **자녀 소비 세부 내용** <br> 시간, 가게위치, 금액등을 확인할 수 있습니다. |
+
+| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(7).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(5).jpg" width="300"/> |
+| --- | --- |
+| **자녀 지갑** <br> 자녀의 소비 내역과 빌리기 금액을 확인할 수 있습니다. | **소비 패턴 분석** <br> 자녀의 소비 패턴을 한눈에 확인할 수 있습니다. |
+
+
+
+## 문서
 
 ### 시스템 아키텍처
 
