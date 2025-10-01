@@ -211,10 +211,10 @@
 
 |  이름 |     역할     |                            Contact                            |         주요 담당(요약)        |
 | :-: | :--------: | :-----------------------------------------------------------: | :----------------------: |
-| 팀장 |   팀장 · BE  |      -      |    자동이체, 금융망 연동, DB 로직   |
-| 팀원 | BE · Infra |       -       | 서버·CI/CD, 자녀 API, FCM 알림 |
+| - |   팀장 · BE  |      -      |    자동이체, 금융망 연동, DB 로직   |
+| - | BE · Infra |       -       | 서버·CI/CD, 자녀 API, FCM 알림 |
 | 윤지욱 |     BE     |         [wl202wl@naver.com](mailto:wl202wl@naver.com)         |   빌리기/미션/QR/모으기 상자 API   |
-| 팀원 |     BE     |   -   |  자동이체/적금, OAuth2.0, JWT  |
+| - |     BE     |   -   |  자동이체/적금, OAuth2.0, JWT  |
 | 강태욱 |     FE     | [sunshinemoongit@gmail.com](mailto:sunshinemoongit@gmail.com) |   회원 관련련, 부모 및 공통 화면, BLE 태깅  |
 | 이지언 |     FE     |     [leejiun0102@naver.com](mailto:leejiun0102@naver.com)     | 자녀 화면, QR 결제, Guide Page, 디자인 |
 
