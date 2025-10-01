@@ -4,29 +4,91 @@
 
 <br/>
 
-<div align="center">
-
-[![Homepage](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=firefox&logoColor=white)]()  
-&nbsp;
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)]()  
-&nbsp;
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
-
-</div>
-
 ---
 
-# 키득키득(KDKD)
+## 기술 스택
+<table>
+  <thead>
+    <tr>
+      <th>분류</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Language</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring%20Boot%203.4.5-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Frontend-Web</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Frontend-Mobile</td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=flat&logo=flutter&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>DB</td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-> 부모-자녀 간 용돈 관리 및 자녀의 경제관념 확립 서비스
 
 ---
+# 부모-자녀 간 용돈 관리 및 자녀의 경제관념 확립 서비스
 
-## 프로젝트 기간
-
-**2025.08.25 ~ 2025.10.03**
+## 프로젝트 개요
+- **프로젝트명:** 키득키득(KDKD)
+- **프로젝트 기간:** 2025.08.25 ~ 2025.09.29 
+- **프로젝트 형태:** 팀 프로젝트 (핀테크 + AI 융합 서비스)  
+- **목표:** 부모와 자녀가 함께하는 안전하고 체계적인 용돈 관리 및 경제 교육 지원
+- **주요 타겟 사용자:** 자녀의 금융 습관 형성을 돕고자 하는 부모와 디지털 금융을 처음 경험하는 어린이·청소년 
 
 ---
+## 프로젝트 소개
+<p align="center">
+  <a href="https://youtu.be/LgeuPJ2OnzI">
+    <img src="http://img.youtube.com/vi/LgeuPJ2OnzI/0.jpg" width="600"/>
+  </a>
+  <br/>
+  <a href="https://youtu.be/LgeuPJ2OnzI">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ## 프로젝트 개요
 
