@@ -142,11 +142,11 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(12).jpg" width="300"/> |
 | --- |
-| **알림** <br> 부모가 등록한 미션을 실시간 알림으로 받을 수 있습니다. |
+| **알림** <br> 부모가 등록한 미션을 알림으로 받을 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(22).jpg" width="300"/> |
 | --- |
-| **프로필** <br> 이름, 이메일, 나이, 생일 정보를 찾아볼 수 있습니다. |
+| **프로필** <br> 이름, 이메일, 나이, 생일 정보를 볼 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(16).jpg" width="300"/> |
 | --- |
@@ -154,7 +154,7 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(18).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(13).jpg" width="300"/> |
 | --- | --- |
-| **모으기 상자** <br> 모으기 상자 생성 및 진행중인 모으기 통장을 확인할 수 있습니다. | **모으기 통장 완료** <br> 완료된 모으기 통장을 확인할 수 있습니다. |
+| **모으기 상자** <br> 모으기 상자 생성 및 목록을 확인할 수 있습니다. | **모으기 통장 완료** <br> 완료된 모으기 통장을 확인할 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(20).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(21).jpg" width="300"/> |
 | --- | --- |
