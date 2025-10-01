@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="exec/readMePng/Main.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/KDKDapplication/.github/refs/heads/main/profile/assets/Frame%20100.png" width="600"/>
 </div>
 
 <br/>
