@@ -142,7 +142,7 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(12).jpg" width="300"/> |
 | --- |
-| **알림** <br> 부모가 등록한 미션을 알림으로 받을 수 있습니다. |
+| **알림** <br> 등록한 미션을 알림으로 받을 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(22).jpg" width="300"/> |
 | --- |
@@ -150,7 +150,7 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(16).jpg" width="300"/> |
 | --- |
-| **키우기** <br> 키덕이 키우기를 통해 경험치를 확인할 수 있습니다. |
+| **키우기** <br> 키덕이 키우기에서 경험치를 확인할 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(18).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(13).jpg" width="300"/> |
 | --- | --- |
@@ -169,11 +169,11 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(10).jpg" width="300"/> |
 | --- |
-| **메인** <br> 자녀 계좌, 내 계좌 잔고 등의 정보를 한 눈에 볼 수 있습니다. |
+| **메인** <br> 자녀 계좌, 내 계좌 등 정보를 볼 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(11).jpg" width="300"/> |
 | --- |
-| **프로필** <br> 이름, 이메일, 나이, 생일 정보를 찾아볼 수 있습니다. |
+| **프로필** <br> 이름, 이메일, 나이, 생일 정보를 볼 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(9).jpg" width="300"/> |
 | --- |
@@ -185,7 +185,7 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(2).jpg" width="300"/>| <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(4).jpg" width="300"/> |
 | --- | --- |
-| **자동이체 등록** <br> 원하는 날짜와 시간, 금액을 선택할 수 있습니다. | **자동이체 목록** <br> 자녀에게 이체되는 자동이체를 확인할 수 있습니다. |
+| **자동이체 등록** <br> 원하는 날짜와 시간, 금액을 선택할 수 있습니다. | **자동이체 목록** <br> 자녀에게 이체되는 용돈를 확인할 수 있습니다. |
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(8).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(6).jpg" width="300"/> |
 | --- | --- |
@@ -193,7 +193,7 @@
 
 | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(7).jpg" width="300"/> | <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/image%20(5).jpg" width="300"/> |
 | --- | --- |
-| **자녀 지갑** <br> 자녀의 소비 내역과 빌리기 금액을 확인할 수 있습니다. | **소비 패턴 분석** <br> 자녀의 소비 패턴을 한눈에 확인할 수 있습니다. |
+| **자녀 지갑** <br> 소비 내역과 빌리기 정보를 확인할 수 있습니다. | **소비 패턴 분석** <br> 자녀의 소비 패턴을 한눈에 확인할 수 있습니다. |
 
 
 
