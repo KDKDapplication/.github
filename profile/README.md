@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KDKDapplication/.github/refs/heads/main/profile/assets/Frame%20100.png" width="600"/>
+  <img src="https://github.com/KDKDapplication/.github/blob/main/profile/assets/Frame%20100.png?raw=true" width="600"/>
 </div>
 
 <br/>
